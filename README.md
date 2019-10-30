@@ -2,7 +2,7 @@
 
 ###  Simple one page website to practise HTML and CSS skills.
 
-#### Demo [here](https://github.com/antonsaf18/psd-html)
+#### Demo [here](https://antonsaf18.github.io/psd-html/)
 
 ####  Technologies used:
 -  HTML;
