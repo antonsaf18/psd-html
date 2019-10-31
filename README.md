@@ -8,6 +8,11 @@
   <p>Author: <a href="https://tocode.ru" target="_blank">To code</a> | <a href="https://www.youtube.com/playlist?list=PLkCrmfIT6LBQWN02hNj6r1daz7965GxsV" target="_blank">Youtube guide in Russian</a></p>
 </div>
 
+#  Project psd-html.
+
+###  Simple one page website to practise HTML and CSS skills.
+
+#### Demo [here](https://antonsaf18.github.io/psd-html/dist/)
 
 ## Build Setup:
 
