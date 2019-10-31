@@ -14,6 +14,10 @@
 
 #### Demo [here](https://antonsaf18.github.io/psd-html/dist/)
 
+####  Technologies used:
+-  HTML;
+-  CSS.
+
 ## Build Setup:
 
 ``` bash
